@@ -1,0 +1,14 @@
+# Node / Remotion
+node_modules/
+LLM-Animation/out/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Office lock files, OS files
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
